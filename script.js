@@ -27,7 +27,7 @@ const postMessage = function () {
         alert('Please enter a valid heading and message first!')
     }
 }
-@Edzani
+//@Edzani
 //this is a very bad way of doing it but it uses plain JS HTML and CSS,if you want to havev 5 
 //posts it would mean haveing 10 divs, and 20 elements on the JS and 20 statements 
 //to set values 
