@@ -12,7 +12,7 @@ let userMessage = document.querySelector('.user-message');
 const postMessage = function () {
 
     // do not post empty messages
-    //Ragex would be better than this if shit,
+    //Ragex would be better than this if ,
     if (messageTag.value !== "" && headingTag !== "") {
         // grab the value of the inputs from the DOM
         // set the innerHTML of the user side
